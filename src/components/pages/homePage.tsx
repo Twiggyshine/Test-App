@@ -1,6 +1,7 @@
+import SignForm from "../form";
 const HomePage = () => {
     return (
-        <div><h1>Home Page</h1></div>)
+        <div><SignForm /></div>)
 }
 
 export default HomePage;
